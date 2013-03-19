@@ -1,0 +1,19 @@
+syntax: glob
+*.sqlite
+*.*~
+*.pyc
+*.log
+*.swp
+*.swo
+*.~
+.idea/
+tags
+ENV/
+distributions/
+local.py
+*.orig
+which.*
+.pydevproject
+.project
+fabsettings.py
+
